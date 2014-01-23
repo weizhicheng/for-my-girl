@@ -1,0 +1,2 @@
+class GirlfriendController < ApplicationController
+end
